@@ -8,3 +8,9 @@
 - Class implementation
 - WebComponents implementation
 - Lit implementation
+
+## Nice to have
+
+- Playback rate
+- Sound control
+- Mute control

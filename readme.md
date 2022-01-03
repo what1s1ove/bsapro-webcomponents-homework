@@ -4,8 +4,7 @@
 
 ## To do
 
-- HTML implementation
-- Class implementation
+- HTML/JS implementation
 - WebComponents implementation
 - Lit implementation
 
